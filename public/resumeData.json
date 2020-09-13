@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Roshoun Watt",
+    "occupation": "Junior ReactJS developer",
+    "description": "Full Stack React Developer",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Roshoun, I'm  junior ReactJS Developer. Currently looking to fullfill my role as a junior reactJs developer. ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "mrwatt68@gmail.com",
+    "phone": "(876)-846-3443",
+    "address": {
+      "street": "3 rochdale avenue kingston 3",
+      "city": "Jamaica",
+      "state": "Kingston",
+      "zip": "JW876"
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "#",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/watt_177/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shawnwatt",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can find a list of my skills",
+    "education": [
+      {
+        "school": "Vector Technology",
+        "degree": "certificate of web development"
+      }
+    ],
+    "work": [
+      {
+        "company": "unemployed",
+        "title": "Freelancer",
+        "years": "1 year"
+      },
+      {
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Firebase",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "nodeJS",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AmazonClone",
+        "category": "built with ReactJS & Stripe for E-commerce functionality",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://amazonremake.netlify.app/"
+      },
+      {
+        "title": "Hulu Clone",
+        "category": "built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://huluremake.netlify.app/"
+      },
+
+      {
+        "title": "Netflix Clone",
+        "category": "built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflixremake.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "That Roshoun watt  must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet, hes always on that coding grind, hes very passionate about it and i think he will be a great asset to have.",
+        "user": "Carlton Banks.... Mentor"
+      }
+    ]
+  }
+}
